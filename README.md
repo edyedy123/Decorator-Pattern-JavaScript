@@ -1,8 +1,8 @@
-# Animated Bubble Sort JavaScript
+# Decorator Pattern JavaScript
 
-I created a simple animation showing how bubble sort works visually.
-Bubble sort is by far not the most efficient sorting method, but for the purposes of this learning exercise, it was simple enough to be made into an animation.
+This animation uses the decorator pattern to add borders to the main object in the animation. This pattern allows for the addition of data to an object without having to complicate the code.
 
 ## What I learned
-- I learned how to make animations using JavaScript
+- I learned about the decorator pattern
 - Used JavaScript script to embed the animation into an HTML page
+
